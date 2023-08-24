@@ -1,2 +1,2 @@
 Hi there 👋
-! https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Logan)](https://github.com/anuraghazra/github-readme-stats)
