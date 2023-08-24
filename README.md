@@ -1,3 +1,2 @@
-Hi there 👋
-My name is Logan Olivo, and some of my hobbies to do is going on night rides on my motorcycle, doing photography, and taking walks.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scylicle)](https://github.com/anuraghazra/github-readme-stats)
+Hi there 👋, my name is Logan Olivo. Some of my hobbies are to go on night rides 🏍💨💨, do photography 📸, and like to go on walks :)
